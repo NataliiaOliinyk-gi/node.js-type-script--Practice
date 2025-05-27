@@ -1,0 +1,4 @@
+
+Info log: Server running on 3000 Port
+Info log: Request GET / 200
+Info log: Request GET /products 200Error log: Error Request GET /contacts 404
